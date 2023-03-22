@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Rowan Kinney
+- Hi, I’m Rowan Kinney
 - I’m interested in working in distributed computing and scientific computing/modeling.
 - I’m currently a MS computer engineering student at the University of New Mexico department of Electrical and Computer Engineering.
 - I have a bachelors in Chemistry from Colorado College.
